@@ -47,5 +47,6 @@
     "doc": "docs"
   },
   "author": "shahirro",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "."
 }
